@@ -1,0 +1,27 @@
+<area shape="rect" href="$classt__editor.html" title="t_editor" alt="" coords="256,249,325,276">
+<area shape="rect" title="tools" alt="" coords="257,161,265,169">
+<area shape="rect" title="tools" alt="" coords="264,245,272,253">
+<area shape="rect" href="$classinput__handler.html" title="input_handler" alt="" coords="303,7,409,33">
+<area shape="rect" title="editor" alt="" coords="287,245,295,253">
+<area shape="rect" title="editor" alt="" coords="276,161,284,169">
+<area shape="rect" href="$classt__pgrid.html" title="t_pgrid" alt="" coords="196,345,260,372">
+<area shape="rect" title="editor" alt="" coords="280,273,288,281">
+<area shape="rect" title="editor" alt="" coords="237,341,245,349">
+<area shape="rect" title="pgrid" alt="" coords="220,341,228,349">
+<area shape="rect" title="pgrid" alt="" coords="252,272,260,280">
+<area shape="rect" title="instance" alt="" coords="240,341,248,349">
+<area shape="rect" title="instance" alt="" coords="244,369,252,377">
+<area shape="rect" href="$structt__pgrid_1_1__mouse.html" title="t_pgrid::_mouse" alt="" coords="5,193,128,220">
+<area shape="rect" title="mouse" alt="" coords="67,217,75,225">
+<area shape="rect" title="mouse" alt="" coords="192,344,200,352">
+<area shape="rect" href="$structvec.html" title="vec" alt="" coords="137,7,180,33">
+<area shape="rect" title="lastmousemove\nlerpedmousepos\nmouse_img_pos" alt="" coords="161,31,169,39">
+<area shape="rect" title="lastmousemove\nlerpedmousepos\nmouse_img_pos" alt="" coords="237,133,245,141">
+<area shape="rect" title="mousepos\nmousevel" alt="" coords="153,31,161,39">
+<area shape="rect" title="mousepos\nmousevel" alt="" coords="216,341,224,349">
+<area shape="rect" href="$structt__screen.html" title="t_screen" alt="" coords="349,249,424,276">
+<area shape="rect" title="screen" alt="" coords="367,273,375,281">
+<area shape="rect" title="screen" alt="" coords="257,343,265,351">
+<area shape="rect" href="$classt__brush.html" title="t_brush" alt="" coords="412,137,481,164">
+<area shape="rect" title="curbrush" alt="" coords="435,161,443,169">
+<area shape="rect" title="curbrush" alt="" coords="323,248,331,256">

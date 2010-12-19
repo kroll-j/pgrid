@@ -1,0 +1,6 @@
+<area shape="rect" href="$structt__screen.html#cdf9876f0231b18aac0e14beb67ac375" title="t_screen::rebuildtextures" alt="" coords="173,5,355,32">
+<area shape="rect" href="$structt__screen.html#bdf0dfd749ffecb5cc5c7e3c7f781d9b" title="t_screen::setortho" alt="" coords="195,56,333,83">
+<area shape="rect" href="$structt__screen.html#19830cb03fa8b7ac94a8eef0f713455f" title="t_screen::setperspective" alt="" coords="175,107,353,133">
+<area shape="rect" href="$structt__screen.html#c502b8d99d6c63867cdfe08a0f9ab2ed" title="t_screen::calcplanedist" alt="" coords="403,56,568,83">
+<area shape="rect" href="$structt__screen.html#741e28d23b45b2755009a1fd8710371d" title="t_screen::getaspect" alt="" coords="412,107,559,133">
+<area shape="rect" href="$structt__screen.html#4db334f3239146b0d1634780833c3927" title="t_screen::getyfov" alt="" coords="419,157,552,184">

@@ -1,0 +1,15 @@
+<area shape="rect" href="$structt__texture.html#de37e333ac34af11d99bf4c7ed33254c" title="t_texture::bind" alt="" coords="615,31,729,57">
+<area shape="rect" href="$classt__pgrid.html#75de7e15f1b14c8b15ce887f8550f7f3" title="t_pgrid::getinstance" alt="" coords="220,157,367,184">
+<area shape="rect" href="$structt__screen.html#4eaf488b4ebc93c0d4e06faadc834abd" title="t_screen::registertexture" alt="" coords="203,107,384,133">
+<area shape="rect" href="$structt__texture.html#94005afc830aeb665b72a33e9dff8ef3" title="t_texture::setpixels" alt="" coords="221,5,365,32">
+<area shape="rect" href="$classt__pgrid.html#995642858ac0bdaedf046fb8c15404d1" title="t_pgrid::t_pgrid" alt="" coords="440,157,557,184">
+<area shape="rect" href="$structt__screen.html#2cb23e85d32c2e5aa53238846badf08f" title="t_screen::init" alt="" coords="621,157,723,184">
+<area shape="rect" href="$main_8h.html#915f6be42635bd8c8ff1980c11b18d1d" title="fatal" alt="" coords="813,132,864,159">
+<area shape="rect" href="$structt__screen.html#f7f0587af7cbaff8fa4ebbd8224c0baa" title="t_screen::gl_init" alt="" coords="779,183,899,209">
+<area shape="rect" href="$structt__screen.html#cdf9876f0231b18aac0e14beb67ac375" title="t_screen::rebuildtextures" alt="" coords="947,132,1128,159">
+<area shape="rect" href="$structt__screen.html#bdf0dfd749ffecb5cc5c7e3c7f781d9b" title="t_screen::setortho" alt="" coords="968,183,1107,209">
+<area shape="rect" href="$structt__screen.html#19830cb03fa8b7ac94a8eef0f713455f" title="t_screen::setperspective" alt="" coords="948,233,1127,260">
+<area shape="rect" href="$structt__screen.html#c502b8d99d6c63867cdfe08a0f9ab2ed" title="t_screen::calcplanedist" alt="" coords="1176,183,1341,209">
+<area shape="rect" href="$structt__screen.html#741e28d23b45b2755009a1fd8710371d" title="t_screen::getaspect" alt="" coords="1185,233,1332,260">
+<area shape="rect" href="$structt__screen.html#4db334f3239146b0d1634780833c3927" title="t_screen::getyfov" alt="" coords="1192,284,1325,311">
+<area shape="rect" href="$structt__texture.html#0ebc22c79ca74ec30e77290751e737e1" title="t_texture::upload" alt="" coords="433,5,564,32">
